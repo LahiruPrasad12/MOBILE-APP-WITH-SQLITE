@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MAD TEST</string>
+    <string name="user_name">User Name</string>
+    <string name="add_btn">ADD</string>
+    <string name="delete_btn">Delete</string>
+    <string name="view_one_btn">View One</string>
+    <string name="view_all_btn">View All</string>
+</resources>
